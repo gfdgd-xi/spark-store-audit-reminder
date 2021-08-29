@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=System;
+Comment=星火应用商店未审核应用列表
+Encoding=UTF-8
+Exec=spark-store-audit-reminder
+Icon=/opt/apps/spark-store-audit-reminder/icons.svg
+MimeType=
+Name=星火应用商店未审核应用列表
+StartupWMClass=星火应用商店未审核应用列表
+Terminal=false
+Type=Application
+X-Deepin-Vendor=user-custom
